@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 
 <head>
@@ -64,11 +64,11 @@
         <h1 class="mb-0">Javier
           <span class="text-primary">Reyes Neira</span>
         </h1>
-        <div class="subheading mb-5">Calle 26 No. 8 - 08 Nogal, Soacha · 305 733 17 44  ·
+        <div class="subheading mb-5">Calle 26 No. 8 - 08 Nogal, Soacha· 305 733 17 44  Â·
           <a href="mailto:jrn-soporte-ti@outlook.com">jrn-soporte-ti@outlook.com</a>
         </div>
-        <p class="lead mb-5">Estudiante ingeniería de sistemas, Técnico en sistemas, Tecnologo en Analisis y desarrollo de sistemas de informacion,
-           diseño implementación y desarrollo de software, programación orientada a objetos, PHP, MySQL, CSS Bootstrap-4, Ajax, javaScript control de versiones, GitHub entre otros, profesional proactivo y autodidacta.
+        <p class="lead mb-5">Estudiante ingenierí­a de sistemas, Ténico en sistemas, Tecnólogo en Analisis y desarrollo de sistemas de informacion,
+           diseño implementación y desarrollo de software, programación orientada a objetos, PHP, MySQL, CSS Bootstrap-4, Ajax, javaScript, Jquery control de versiones, GitHub entre otros, profesional proactivo y autodidacta.
         </p>
         <div class="social-icons">
           <a target="_blank" href="https://www.linkedin.com/in/javier-reyes-neira">
@@ -93,11 +93,11 @@
             <h3 class="mb-0">Desarrollador de software</h3>
             <div class="subheading mb-3">GRUPO INEDITTO S.A.S</div>
             <p>
-              Análisis Desarrollo e implementación de software con énfasis PHP , MySQL, JavaScript y jQuery. Implementando mejoras tecnológicas. En Inédito S.A.S, software de gestion empresarial.
+              Análisis Desarrollo e implementación de software con fasis PHP, MySQL, JavaScript y jQuery. Implementando mejoras tecnológicas. En InÃ©dito S.A.S, software de gestion empresarial.
             </p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">25 / jul / 20 - hasta la fecha</span>
+            <span class="text-primary">25 / jul / 20 - <?= date('d/m/Y') ?></span>
           </div>
         </div>
 
@@ -105,8 +105,8 @@
           <div class="resume-content">
             <h3 class="mb-0">Técnico sistemas</h3>
             <div class="subheading mb-3">SONDA DE COLOMBIA</div>
-            <p>Instalación, actualización de software “S.O. y todos los aplicativos del EAAB, gestión de Bases datos "query MySQL", manejo general de herramientas informáticas Acronis, 
-              remedí, lansweeper, y directorio activo en primer nivel, soporte en sitio frente informática. Además de conocer los diferentes procesos TI de EAAB, para dar solución rápida eficaz a los casos presentados frente a soporte en sitio. 
+            <p>InstalaciÃ³n, actualizaciÃ³n de software S.O. y todos los aplicativos del EAAB, gestión de Bases datos "query MySQL", manejo general de herramientas informáticas Acronis, 
+              remedí, lansweeper, y directorio activo en primer nivel, soporte en sitio frente informÃ¡tica. AdemÃ¡s de conocer los diferentes procesos TI de EAAB, para dar solución rápida eficaz a los casos presentados frente a soporte en sitio. 
             .</p>
           </div>
           <div class="resume-date text-md-right">
@@ -118,7 +118,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Técnico soporte</h3>
             <div class="subheading mb-3">GESTION PROFESIONAL - SONDA DE COLOMBIA</div>
-            <p>Instalación, actualización de software “S.O. y todos los aplicativos del EAAB” manejo general de herramientas informáticas acronis, remedy, lansweeper, y directorio activo en primer nivel.
+            <p>Instalación, actualización de software S.O. y todos los aplicativos del EAAB, manejo general de herramientas informáticas acronis, remedy, lansweeper, y directorio activo en primer nivel.
             Además de conocer los diferentes procesos TI de EAAB, para dar solución rápida eficaz a los casos presentados frente a soporte.
             </p>
           </div>
@@ -131,7 +131,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Técnico soporte</h3>
             <div class="subheading mb-3">GESTION PROFESIONAL - G Y L SYSTEM</div>
-            <p>Alistamiento de equipos de cómputo, instalación de software “imágenes S.O. y aplicativos de EAAB” migración de información, direccionamiento IP punto a punto, matricular PCs a dominio, configuración de perfil según las necesidades de usuario y políticas de seguridad de la entidad.</p>
+            <p>Alistamiento de equipos de cómputo, instalación de software imágenes S.O. y aplicativos de EAAB, migración de información, direccionamiento IP punto a punto, matricular PCs a dominio, configuración de perfil según las necesidades de usuario y polí­ticas de seguridad de la entidad.</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">01 / Abr / 17 - 30 / Jul / 17 </span>
@@ -142,7 +142,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Técnico soporte</h3>
             <div class="subheading mb-3">DELTEC S.A.</div>
-            <p>Mantenimiento preventivo en equipos de cómputo, soporte general en cuanto a la infraestructura de sistemas, instalación de S.O. backups de información digitación en diferentes plataformas web, de la compañía, proyecto gas natural..</p>
+            <p>Mantenimiento preventivo en equipos de cómputo, soporte general en cuanto a la infraestructura de sistemas, instalación de S.O. backups de información digitación en diferentes plataformas web, de la compañia, proyecto gas natural..</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">01 / Jul / 16  -  30/ dic / 16 </span>
@@ -154,7 +154,7 @@
           <div class="resume-content">
             <h3 class="mb-0">Reparación equipos de cómputo</h3>
             <div class="subheading mb-3">COMPUCEL</div>
-            <p>Diagnóstico y reparación de equipos de cómputo, backups de información, instalación de S.O. y aplicativos requerido por el cliente, cambio de hardware según el daño de equipo.</p>
+            <p>Diagnóstico y reparación de equipos de cómputo, backups de información, instalación de S.O. y aplicativos requerido por el cliente, cambio de hardware según el datos de equipo.</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">01 / feb / 16  -  20 / jul / 16 </span>
@@ -173,7 +173,7 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Tecnologo Analisis y desarrollo de sistemas de informacion</h3>
+            <h3 class="mb-0">Tecnólogo Analisis y desarrollo de sistemas de información</h3>
             <div class="subheading mb-3">SENA</div>
             <p>Presencial - cetificado</p>
           </div>
@@ -184,7 +184,7 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
-            <h3 class="mb-0">Tecnico sistemas</h3>
+            <h3 class="mb-0">Técnico sistemas</h3>
             <div class="subheading mb-3">SENA</div>
             <p>Presencial - certificado</p>
             <br><br>
@@ -361,7 +361,7 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interes</h2>
-        <p>Además de ser técnico en soporte, disfruto la mayor parte de mi tiempo. Me interesa el desarrollo académico personal y laboral, asi que  constantemente estoy explorando los últimos avances tecnológicos en el mundo del desarrollo web y soporte TI a nivel general.</p>
+        <p>AdemÃ¡s de ser técnico en soporte, disfruto la mayor parte de mi tiempo. Me interesa el desarrollo académico personal y laboral, asi que  constantemente estoy explorando los Ãºltimos avances tecnológicos en el mundo del desarrollo web y soporte TI a nivel general.</p>
       </div>
     </section>
 
