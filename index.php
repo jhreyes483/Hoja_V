@@ -65,7 +65,7 @@
           <span class="text-primary">Reyes Neira</span>
         </h1>
         <div class="subheading mb-5">Calle 26 No. 8 - 08 Nogal, Soacha· 305 733 17 44  Â·
-          <a href="mailto:jrn-soporte-ti@outlook.com">jrn-soporte-ti@outlook.com</a>
+          <a href="mailto:jav-rn@hotmail.com">jav-rn@hotmail.com</a>
         </div>
         <p class="lead mb-5">Estudiante ingenierí­a de sistemas, Ténico en sistemas, Tecnólogo en Analisis y desarrollo de sistemas de informacion,
            diseño implementación y desarrollo de software, programación orientada a objetos, PHP, MySQL, CSS Bootstrap-4, Ajax, javaScript, Jquery control de versiones, GitHub entre otros, profesional proactivo y autodidacta.
