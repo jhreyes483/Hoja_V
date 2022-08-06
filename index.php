@@ -87,16 +87,30 @@
       <div class="w-100">
         <h2 class="mb-5">Experiencia</h2>
 
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Desarrollador de backend</h3>
+            <div class="subheading mb-3">LAIKA</div>
+            <p>
+              Análisis Desarrollo e implementación de software con  énfasis PHP, MySQL, Laravel. Implementando mejoras tecnológicas. En Laika app,  Startup presente en 3 países de Latinoamérica </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">15 / ene / 22 - hasta la fecha</span>
+          </div>
+        </div>
+
+
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <h3 class="mb-0">Desarrollador de software</h3>
             <div class="subheading mb-3">GRUPO INEDITTO S.A.S</div>
             <p>
-              Análisis Desarrollo e implementación de software con fasis PHP, MySQL, JavaScript y jQuery. Implementando mejoras tecnológicas. En InÃ©dito S.A.S, software de gestion empresarial.
+              Análisis Desarrollo e implementación de software con énfasis PHP, MySQL, JavaScript y jQuery. Implementando mejoras tecnológicas. En Ineditto S.A.S, software de gestion empresarial.
             </p>
           </div>
           <div class="resume-date text-md-right">
-            <span class="text-primary">25 / jul / 20 - hasta la fecha</span>
+            <span class="text-primary">25 / jul / 20 - 10 / ene / 22</span>
           </div>
         </div>
 
@@ -104,8 +118,8 @@
           <div class="resume-content">
             <h3 class="mb-0">Técnico sistemas</h3>
             <div class="subheading mb-3">SONDA DE COLOMBIA</div>
-            <p>InstalaciÃ³n, actualizaciÃ³n de software S.O. y todos los aplicativos del EAAB, gestión de Bases datos "query MySQL", manejo general de herramientas informáticas Acronis, 
-              remedí, lansweeper, y directorio activo en primer nivel, soporte en sitio frente informÃ¡tica. AdemÃ¡s de conocer los diferentes procesos TI de EAAB, para dar solución rápida eficaz a los casos presentados frente a soporte en sitio. 
+            <p>InstalaciÃ³n, actualización de software S.O. y todos los aplicativos del EAAB, gestión de Bases datos "query MySQL", manejo general de herramientas informáticas Acronis, 
+              remedí, lansweeper, y directorio activo en primer nivel, soporte en sitio frente informática. Además de conocer los diferentes procesos TI de EAAB, para dar solución rápida eficaz a los casos presentados frente a soporte en sitio. 
             .</p>
           </div>
           <div class="resume-date text-md-right">
@@ -360,7 +374,7 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interes</h2>
-        <p>AdemÃ¡s de ser técnico en soporte, disfruto la mayor parte de mi tiempo. Me interesa el desarrollo académico personal y laboral, asi que  constantemente estoy explorando los Ãºltimos avances tecnológicos en el mundo del desarrollo web y soporte TI a nivel general.</p>
+        <p>Además de ser técnico en soporte, disfruto la mayor parte de mi tiempo. Me interesa el desarrollo académico personal y laboral, asi que  constantemente estoy explorando los últimos avances tecnológicos en el mundo del desarrollo web y soporte TI a nivel general.</p>
       </div>
     </section>
 
